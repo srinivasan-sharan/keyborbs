@@ -14,4 +14,12 @@ You require the following for building it:
 4. 44 N4148 Diodes
 5. Pro Micro/ Equivalent MCU
 
-###Some Images (in fusion) 
+
+Renders:
+
+![image1](/40.v1/images/ortho.PNG)
+![image2](/40.v1/images/top.PNG)
+![image3](/40.v1/images/front.PNG)
+![image4](/40.v1/images/side.PNG)
+![image5](/40.v1/images/bottom.PNG)
+![image6](/40.v1/images/back.PNG)
