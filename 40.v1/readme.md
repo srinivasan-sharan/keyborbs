@@ -1,6 +1,6 @@
 # 40.V1
 
-This is a 40% wkl board that is 3dp and handwired. If any changes are made/required, they will be made.
+This is a 40% wkl board that is 3dp and handwired. If any changes are made/required, they will be updated here.
 The specs are as follows:
 
 - 6.1 Degree typing angle
